@@ -4,6 +4,7 @@
 <h3 align="center">A passionate full stack developer hailing from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xicoder96&label=Profile%20views&color=0e75b6&style=flat" alt="xicoder96" /> </p>
+<p align="left"> <a href="https://twitter.com/iamxikriz" target="blank"><img src="https://img.shields.io/twitter/follow/iamxikriz?logo=twitter&style=for-the-badge" alt="iamxikriz" /></a> </p>
 
 - 🌱 I’m currently learning **AWS IOT, Alexa Skills, Qt framework, Devops, Automotive Programming, Basic Hacking skills**
 
@@ -28,5 +29,6 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/xicoder"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="xicoder" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xicoder96&show_icons=true&locale=en&layout=compact" alt="xicoder96" /></p> <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=xicoder96&show_icons=true&locale=en" alt="xicoder96" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xicoder96&show_icons=true&locale=en&layout=compact" alt="xicoder96" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xicoder96&show_icons=true&locale=en" alt="xicoder96" /></p>
