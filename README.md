@@ -28,7 +28,5 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/xicoder"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="xicoder" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xicoder96&show_icons=true&locale=en&layout=compact" alt="xicoder96" /></p>
-
-<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=xicoder96&show_icons=true&locale=en" alt="xicoder96" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xicoder96&show_icons=true&locale=en&layout=compact" alt="xicoder96" /> <img align="right" src="https://github-readme-stats.vercel.app/api?username=xicoder96&show_icons=true&locale=en" alt="xicoder96" /></p>
 
