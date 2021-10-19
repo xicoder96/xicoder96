@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm a crazy coder named Xicoder</h1>
 <h2 align="center">oh! we are not doing made up names?</h2>
 <h1 align="center">Well, then I'm Sai Krishnan Sathiarthi</h1>
-<h3 align="center">A passionate full stack developer hailing from India</h3>
+<h3 align="center">A passionate full stack developer hailing from Kerala, India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xicoder96&label=Profile%20views&color=0e75b6&style=flat" alt="xicoder96" /> </p>
 <p align="left"> <a href="https://twitter.com/iamxikriz" target="blank"><img src="https://img.shields.io/twitter/follow/iamxikriz?logo=twitter&style=for-the-badge" alt="iamxikriz" /></a> </p>
