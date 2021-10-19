@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm a crazy coder named Xicoder, oh! we are not doing made up names?</h1>
+<h1 align="center">Hi 👋, I'm a crazy coder named Xicoder</h1>
+<h2 align="center">oh! we are not doing made up names?</h2>
 <h1 align="center">Well, then I'm Sai Krishnan Sathiarthi</h1>
 <h3 align="center">A passionate full stack developer hailing from India</h3>
 
