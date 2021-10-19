@@ -30,5 +30,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xicoder96&show_icons=true&locale=en&layout=compact" alt="xicoder96" /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=xicoder96&show_icons=true&locale=en" alt="xicoder96" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=xicoder96&show_icons=true&locale=en" alt="xicoder96" /></p>
 
